@@ -1,0 +1,4 @@
+recursive-include jeyzthtg2/public *
+include jeyzthtg2/public/favicon.ico
+recursive-include jeyzthtg2/i18n *
+recursive-include jeyzthtg2/templates *
