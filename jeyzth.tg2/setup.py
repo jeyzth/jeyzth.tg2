@@ -43,6 +43,7 @@ install_requires = [
     "repoze.who",
     "tw2.forms",
     "tgext.admin >= 0.6.1",
+    "tgming",
 ]
 
 setup(
